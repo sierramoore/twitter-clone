@@ -1,0 +1,10 @@
+.sidebarCol {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    min-width: 200px;
+    text-align: center;
+}
+.sidebarCol > * {
+    margin-bottom: 20px;
+}

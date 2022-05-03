@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 98%;
+    height: 100%;
+    margin-inline: auto;
+    padding-block: 20px;
+}
+
+.main {
+    width: 80vw;
+}
